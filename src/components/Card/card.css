@@ -1,0 +1,25 @@
+.card-container {
+  background-color: #ffffff;
+  width: 135px;
+  height: 135px;
+  border-radius: 8px;
+  border: 1px solid #cbcbcb;
+  margin: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card-body {
+  width: 100%;
+  height: 105px;
+}
+
+.card-footer {
+  width: 100%;
+  height: 28px;
+  font-size: 11px;
+}
+
+.channel-info {
+  font-weight: bolder;
+}
